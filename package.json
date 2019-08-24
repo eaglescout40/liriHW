@@ -1,0 +1,28 @@
+{
+  "name": "LIRIBOT",
+  "version": "1.0.0",
+  "description": "LIRIBOT",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "#"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "#"
+  },
+  "homepage": "#",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^4.0.0",
+    "env": "0.0.2",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.1.1",
+    "request": "^2.79.0"
+  }
+}
